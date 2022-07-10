@@ -1,0 +1,30 @@
+name: msc_electronics
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.17.5 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  get_storage: ^2.0.3
+  intl_phone_field: ^3.1.0
+  url_launcher: ^6.1.4
+  share_plus: ^4.0.10
+  alh_pdf_view: ^0.3.3
+  wakelock: ^0.6.2
+  new_version: ^0.3.1
+  app_settings: ^4.1.8
+  google_mobile_ads: ^1.3.0
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
